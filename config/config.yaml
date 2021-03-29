@@ -1,0 +1,25 @@
+ui:
+  test: http://shopxo.hctestedu.com/
+  prourl:
+  preurl:
+api:
+  test: https://www.com
+  prourl:
+  preurl:
+
+browser:
+    type: chrome #ie firefox
+    env:  localhost  #headless #selenium_grid #docker
+
+database:
+    username: root
+    password: root123
+    dbname: atp_auto_sit
+    serve: localhost
+
+
+email:
+
+
+
+
